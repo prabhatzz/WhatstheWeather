@@ -14,6 +14,6 @@ A simple web app to display real-time weather data using HTML, CSS, JavaScript.
 
 ## Deployment Link
 
-
+https://prabhatzz.github.io/WhatstheWeather/
 
 
